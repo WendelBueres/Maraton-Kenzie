@@ -37,17 +37,11 @@ podio = [firstPlace, secondPlace, lastPlace]
 
 //Testes
 
-/*
 console.log("Teste 1: ")
 console.log(position("Manuel", "Daniel", "Rafael"))
-*/
 
-/*
 console.log("Teste 2: ")
 console.log(position("Manuel", "Rafael", "Daniel"))
-*/
 
-/*
 console.log("Teste 3: ")
 console.log(position("Daniel", "Manuel", "Rafael"))
-*/
